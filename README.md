@@ -11,7 +11,7 @@ and a companion mobile application to capture and analyze
 spatiotemporal gait parameters.
 
 <p align="center">
-  <img src="images/v2.0.jpeg" width="650">
+  <img src="images/v2.0.jpeg" width="450">
 </p>
 
 ## Overview
