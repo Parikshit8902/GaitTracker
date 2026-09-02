@@ -102,12 +102,6 @@ The application uses Bluetooth Low Energy for device discovery and
 initial configuration, followed by Wi-Fi/WebSockets for higher-
 bandwidth communication.
 
-## Documentation
-
-The complete project report is available here:
-
-[Read the GaitTracker Project Report](docs/GaitTracker_Thesis.pdf)
-
 ## Repository Scope
 
 This repository contains selected documentation and photographs
