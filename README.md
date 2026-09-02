@@ -11,7 +11,7 @@ and a companion mobile application to capture and analyze
 spatiotemporal gait parameters.
 
 <p align="center">
-  <img src="images/gaittracker-v3.jpg" width="650">
+  <img src="images/v2.0.png" width="650">
 </p>
 
 ## Overview
